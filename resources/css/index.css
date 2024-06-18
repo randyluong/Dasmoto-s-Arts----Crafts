@@ -1,0 +1,57 @@
+.dasmoto {
+    font-family: Helvetica;
+    font-size: 50px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    
+}
+
+
+
+.brushes {
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+    
+   
+}
+
+.saw-brush {
+    font-family: Helvetica;
+    font-size: 16px;
+}
+
+.frames {
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+.frametext {
+    font-family: Helvetica;
+    font-size: 15px;
+    
+}
+
+#frametext {
+    font-family: Helvetica;
+    font-size: 16px;
+}
+
+.paint {
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+
+#text {
+    font-family: Helvetica;
+    font-size: 16px;
+}
